@@ -1,31 +1,33 @@
-Paradigm Shift by HTML5 UP
+Cambio de paradigma por HTML5 UP
 html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Gratis para uso personal y comercial bajo la licencia CCA 3.0 (html5up.net/license)
 
 
-Say hello to Paradigm Shift, my first addition to HTML5 UP in more than a year (!!!).
-Took things in a slightly different direction with this one, partly to mess with CSS
-grid (which this one relies on pretty heavily) but mostly to get back to making weirder
-and more experimental designs/layouts. Anyway, hope you dig it, and thanks for the
-continued support despite the lack of updates :)
+Saluda a Paradigm Shift, mi primera adición a HTML5 UP en más de un año (!!!).
+Tomé las cosas en una dirección ligeramente diferente con éste, en parte para meterse con CSS
+CSS (que este se basa en gran medida), pero sobre todo para volver a hacer más extraño
+y más experimentales diseños / diseños. De todos modos, espero que te guste, y gracias por la
+apoyo continuo a pesar de la falta de actualizaciones :)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Imágenes de demostración* cortesía de Unsplash, una colección radtastic de CC0 (dominio público) imágenes
+que puede utilizar para casi cualquier cosa.
 
-(* = not included)
+(* = no incluidas)
 
 AJ
 aj@lkn.io | @ajlkn
 
 
-Credits:
+Créditos:
 
-	Demo Images:
+	Imágenes de demostración:
 		Unsplash (unsplash.com)
 
-	Icons:
+	Iconos:
 		Font Awesome (fontawesome.io)
 
-	Other:
+	Otros:
 		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		Herramientas responsivas (github.com/ajlkn/responsive-tools)
+
+Traducción realizada con la versión gratuita del traductor DeepL.com
